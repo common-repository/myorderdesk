@@ -1,0 +1,35 @@
+header {
+    background-color: #00000000;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+.page {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.tablebodytable {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+mnsleft {
+    width: 50%;
+    font-family: arial, sans-serif;
+}
+mnsright {
+    width: 50%;
+    font-family: arial, sans-serif;
+    float: right;
+    text-align: right;
+}
+.table1 {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    padding: 8px;
+}
